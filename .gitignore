@@ -1,5 +1,4 @@
 *.sh
-parser.py
 *.pyc
 *.ipynb
 *.pkl 
