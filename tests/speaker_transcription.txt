@@ -1,0 +1,294 @@
+2.65-6.49: Speaker SPEAKER_00
+ xMMU
+
+7.39-11.10: Speaker SPEAKER_00
+
+
+12.15-26.68: Speaker SPEAKER_01
+
+
+13.95-15.05: Speaker SPEAKER_00
+
+
+27.72-37.53: Speaker SPEAKER_01
+ xIm  vị  들고  Thì  cái  điều  kiện  mà  các  bạn  đi  đến  trường  thì  chủ  yếu  là  những  trường  học  mà  các  bạn  thường  là  phải  đến  những  thành  phố
+
+38.12-79.83: Speaker SPEAKER_01
+ lớn  để  các  bạn  học  Quá  dụ  như  là  lên  Sài  Gòn  nè,  ở  dưới  quê  các  bạn  lên  Sài  Gòn  học  Hay  là  các  bạn  ở  ngoài  Bắc  thì  các  bạn  ra  Hà  Nội  hay  Đà  Nẵng  hay  là  tới  thành  phố  Huế  Chẳng  hạn  như  vậy,  hay  là  tới  những  thành  phố  mà  có  trường  mù  để  các  bạn  học  Nên  là  cái  hệ  thống  mà  học  hòa  nhập  nó  gọi  là  giống  như  là  Intuitive  Education  ở  Việt  Nam  chưa  được  đẩy  mạnh  ở  toàn  quốc  Nhưng  mà  nó  sẽ  tập  trung  phát  triển  ở  những  thành  phố  lớn,  ví  dụ  như  Sài  Gòn  thì  thường  các  bạn  muốn  học  hòa  nhập  thì  các  bạn  tới  đó  Ngoài  ra  trong  quá  trình  đi  học  thì  các  bạn  sẽ  gặp  một  số  có  khăn  ví  dụ  như  cái  nguồn  tài  liệu,  sách  ví  dụ  như  mình  nói  sách  chữ  nổi  Thì  Linh  cũng  biết  là  sách  chữ  nổi  thì  in  rất  là  mắc
+
+80.54-135.71: Speaker SPEAKER_01
+ Nhưng  mà  nếu  các  bạn  dùng  máy  tính  thì  trang  thiết  bị  các  bạn  cũng  không  có  điều  kiện  để  các  bạn  sắm  các  máy  tính  riêng  Thì  chương  trình  hỗ  trợ  đó  gần  như  là  không  có,  phần  lớn  các  bạn  phải  tự  lực  Ví  dụ  như  là  ba  mẹ  hỗ  trợ  cho  mua  máy,  mua  trang  thiết  bị  cho  các  bạn  học  Chứ  không  có  một  nguồn  tài  trợ  của  chính  phủ  hay  hỗ  trợ  gì  hết  Nên  vấn  đề  đó  là  những  vấn  đề  khó  khăn  Phần  lớn  các  bạn  kiếm  gì  là  Linh  biết  là  từ  những  gia  đình  nghèo  khó  khăn  nhiều  Thường  ở  dưới  quê  thì  nghèo  thiếu  điều  kiện  về  y  tế  nên  năm  nay  người  ta  cũng  gặp  khó  khăn,  người  ta  chữa  chỉ  không  tốt  Bây  giờ  thời  buổi  này  thì  nó  đỡ  hơn,  ngày  xưa  thì  trước  thì  hơi  mệt  về  vấn  đề  y  tế  Đó  là  về  vấn  đề  học  tập,  cái  đó  là  ở  cấp  1,  cấp  2,  cấp  3  nha,  lúc  1  có  lúc  12  Còn  ngoài  ra  thì  sau  đại  học,  sau  cộ  thông
+
+104.40-105.70: Speaker SPEAKER_00
+ lớn  các  bạn  kiếm  gì  là
+
+114.29-114.85: Speaker SPEAKER_00
+ y  tế  nên
+
+118.39-120.06: Speaker SPEAKER_00
+ giờ  thời  buổi  này  thì  nó  đỡ  hơn,
+
+136.52-241.85: Speaker SPEAKER_01
+ Bây  giờ  thì  cũng  có  nhiều  trường  đại  học  đã  mở  cửa  cho  các  bạn  đi  học  rồi  Nhưng  mà  không  phải  là  trường  nào  cũng  mở,  có  nghĩa  là  vẫn  còn  có  những  trường  từ  chối  chẳng  hạn  như  vậy  Vì  họ  không  biết  cách  dạy  người  kiếm  tiền  như  thế  nào  Rồi  nguồn  tài  liệu  cho  các  bạn  học  thì  cũng  rất  là  hạn  chế  Để  đạo  ra  cho  các  bạn  thì  cũng  còn  hạn  chế  Rồi  một  cái  quan  trọng  hơn  đó  là  sau  khi  mà  tốt  nghiệp  để  học  thì  các  bạn  rất  là  khó  để  kiếm  được  việc  làm  đúng  với  cái  ngành  nghề  mình  học  Ví  dụ  như  học  Computer  Science  nhưng  mà  ra  thì  đi  làm  nghề  khác  Không  phải  là  Computer  Science  chẳng  hạn  như  vậy  Thì  học  nhanh  này  nhưng  mà  làm  nghề  khác  Thì  hiện  nay  thì  phần  lớn  các  bạn  dễ  rồi  Bây  giờ  mình  nói  tới  cái  vấn  đề  việc  làm  Việc  làm  của  các  bạn  chính  thị  ở  Việt  Nam  thì  phần  lớn  hiện  nay  các  bạn  chủ  yếu  làm  nghề  là  những  cái  nghề  mà  làm  nghề  Massage  là  các  bạn  nghề  đó  là  ra  là  chỉ  cần  học  và  vài  tháng  là  có  cái  chứng  chỉ  về  Dumbop  về  làm  Massage  thì  các  bạn  có  thể  làm  nghề  đó  và  các  bạn  dễ  có  nghĩa  là  không  có  phải  yêu  cầu  Tại  vì  các  bạn  có  thể  tự  tuyển  dụng,  các  bạn  tự  mở  cơ  sở  hoặc  là  làm  cho  những  cơ  sở  của  những  bạn  chính  thị  khác  mà  ra  Những  cái  như  vậy  thì  đó  là  những  cách  mà  việc  làm  Còn  về  những  việc  làm  đúng  chuyên  ngành  của  các  bạn  có  kỹ  năng  thì  hiện  nay  cơ  hội  việc  làm  vẫn  còn  rất  là  thấp  Còn  về  cuộc  sống  của  các  bạn  chính  thị  ở  Việt  Nam  thì  hiện  nay  các  bạn  chắc  cũng  có  được  Các  bạn  ở  Việt  Nam  nhận  trợ  cấp  của  chính  phủ  khoảng  bao  nhiêu  tháng?
+
+153.09-153.41: Speaker SPEAKER_00
+ chế
+
+174.50-174.97: Speaker SPEAKER_00
+ phải  là  Computer
+
+192.78-194.36: Speaker SPEAKER_00
+ các  bạn  nghề  đó  là  ra  là
+
+243.35-245.38: Speaker SPEAKER_01
+
+
+246.41-255.15: Speaker SPEAKER_01
+ Các  bạn  ở  Việt  Nam  nhận  trợ  cấp  của  chính  phủ  thì  1  tháng  chắc  là  khoảng  7 -800  ngàn  gì  đó  Quang  ơi,
+
+256.62-260.68: Speaker SPEAKER_01
+ cái  tiền  mà  các  bạn  nhận  trợ  cấp  là  khoảng  bao  nhiêu  vậy  ta?
+
+262.98-265.44: Speaker SPEAKER_00
+ Khiếm  tiền  xa  là  khoảng
+
+266.13-269.59: Speaker SPEAKER_01
+ đó  là  Sài  Gòn  đúng  không?  Dưới  quê  thấp  hơn  đúng  không?
+
+271.65-295.46: Speaker SPEAKER_01
+ Ví  dụ  như  ở  Sài  Gòn  thì  1  bạn  thường  nhận  được  khoảng  960  nghìn  đồng  Còn  dưới  quê  thì  thường  thấp  hơn,  nó  tùy  theo  vùng,  mức  sống  đưa  ra  quy  chuẩn  của  nhà  nước  Thật  ra  con  số  đó  so  với  mức  sống  thì  chắc  chắn  là  không  đáp  ứng  được  các  bạn  nhiều
+
+290.06-290.35: Speaker SPEAKER_00
+
+
+296.64-336.25: Speaker SPEAKER_01
+ Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?
+
+308.03-309.64: Speaker SPEAKER_00
+ Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?  Các
+
+325.23-326.68: Speaker SPEAKER_00
+ Các  bạn  có  biết  là
+
+336.16-339.59: Speaker SPEAKER_00
+ Các  bạn  có  biết  là  các  bạn  có  thể  đi  về  nhà  nước  không?
+
+344.15-348.75: Speaker SPEAKER_00
+ tâm  sao  mai  làm  gì  plea  cho  người  ngu  Erfahrungosaurus
+
+350.24-350.76: Speaker SPEAKER_00
+
+
+351.42-352.03: Speaker SPEAKER_00
+
+
+353.39-358.46: Speaker SPEAKER_00
+ l
+
+359.79-360.85: Speaker SPEAKER_00
+
+
+360.58-397.67: Speaker SPEAKER_01
+ Không  đ  repeats  Vì  do  hai  ông  người  Ý  là  Carlo,  Pissatto  và  Lamenio  Pettelia  bên  Ý  thì  về  đây  Việt  Nam,  về  Sài  Gòn  tổ  chức
+
+381.52-382.35: Speaker SPEAKER_00
+ Không
+
+398.30-403.29: Speaker SPEAKER_01
+ ra  một  nhóm  các  bạn  khiến  thị  trẻ,  trong  đó  có
+
+404.19-417.20: Speaker SPEAKER_01
+ anh  nữa  Lúc  đó  thì  còn  trẻ  đúng  không?  1999  thì  còn  trẻ  Một  nhóm  các  bạn  khiến  thị  trẻ,  cái  dự  án  đó  đào  tạo  cho  nhóm  khiến  thị  trẻ  từ  Anh  đó
+
+405.45-409.18: Speaker SPEAKER_00
+ Lúc  đó  thì  còn  trẻ  đúng  không?  1999  thì  còn  trẻ  Một
+
+417.84-465.29: Speaker SPEAKER_01
+ thì  ra  để  trở  thành  những  giáo  viên  dạy  tinh  học  cho  người  khiến  thị  Sau  đó  kết  thúc  dự  án  đó,  hai  ông  người  Ý  mới  thành  lập  trung  tâm  Sarmai  Trung  tâm  Sarmai  lúc  đó  là  tụi  anh  về  đó,  tụi  anh  làm,  xong  quản  lý,  lúc  đó  anh  làm,  chứ  bản  thân  anh  là  giáo  viên  Sau  đó  từ  từ  làm,  thời  gian  sau  thì  hiện  nay  làm  phụ  trách  binh,  giám  đốc  đương  hành  Thì  sẽ  dạy  cho  các  bạn  khiến  thị  lúc  đó  là  tập  trung  vô  mở,  phổ  cập,  dạy  tinh  học  cho  các  bạn  khiến  thị,  dạy  máy  tính  đó  cho  các  bạn  khiến  thị  Tại  vì  lúc  đó  máy  tính  rất  là  còn  mới  mẻ  đối  với  người  khiến  thị  ở  Việt  Nam  Thì  Sarmai  bắt  đầu  thành  lập  ra  với  mục  tiêu  là  để  dạy  và  nghiên  cứu,  phát  triển  những  ứng  dụng  cho  người  khiến  thị
+
+440.54-440.64: Speaker SPEAKER_00
+
+
+441.53-442.46: Speaker SPEAKER_00
+ bạn  khiến  thị  lúc  đó  là
+
+453.60-453.77: Speaker SPEAKER_00
+
+
+466.68-495.97: Speaker SPEAKER_01
+ dụ  như  là  Linh  có  thể  tìm  thêm  thông  tin  dụ  như  trên  trang  giới  thiệu  của  Sarmai  á  Thì  dụ  như  là  mình  là  empower  dạng  như  là  visually  impaired  people  dạng  như  là,  ngoài  ra  thì  phát  triển  những  ứng  dụng  thì  Sarmai  cũng  là  đơn  vị  phát  triển  bộ  đọc  tiếng  Việt  Vietnamese  Text  to  Speech  Engine,  you  know  that  Dạ,  cái  đó  là  cái  quan  trọng  đó  Cái  đó  là  cái  quan  trọng  đó,  khi...  Dạ,  rất  là  quan  trọng  cho  người  mù  để  có  thể  sử  dụng  được  mấy  tính,  đúng  không?
+
+483.53-483.55: Speaker SPEAKER_00
+
+
+491.01-493.79: Speaker SPEAKER_00
+ Dạ,  rất  là  quan  trọng
+
+495.45-498.28: Speaker SPEAKER_00
+ đúng  không?  Dạ,  bây  giờ  em  đang  học  tố  Ah,
+
+497.54-581.64: Speaker SPEAKER_01
+ Ah,  ok,  ok  Thì  ngày  xưa  thì  Sarmai  phát  triển  một  cái  bộ  đọc  đó,  trả  hành  như  vậy  Thật  ra  thì  sau  này  Sarmai  làm  việc  với  những  đối  tác  trong  khu  vực  Đông  Nam  Á  nữa  nè  Thì  Sarmai  cũng  phát  triển  một  cái  bộ  đọc,  một  cái  TTS  cho  Burmese  Language  là  tiếng...  của  Myanmar  đó,  miễn  điện  đó  Thì  cũng  phát  triển  cho  họ  Từ  ngoài  ra  nữa  thì  mình  tư  vấn,  hỗ  trợ  cho  những  đối  vị  khác  này  kia  Và  phát  triển  những  cái  chương  trình  thì  ví  dụ  như  là  mình  có  thể  lên  trang  web  của  Sarmai  á  Coi  một  số  sản  phẩm  phần  mềm  này  kia  mà  bên  Sarmai  đã  phát  triển  thì  nó  có  nhiều  Từ  ngoài  ra  nữa  thì  ngày  xưa  thời  gian  bắt  đầu  là  để  hỗ  trợ  được,  ví  dụ  như  Sarmai  ở  Sài  Gòn  đúng  không?  Muốn  dạy  cho  được  nhiều  bạn  kiếm  thị  trên  cả  nước  Thì  lúc  đó  Sarmai  mới  đưa  ra  ý  tưởng  là  xây  dựng  một  cái  mạng  lưới  đào  tạo  tinh  học  tùy  xa  Distance  Computer  Training  Network  Thì  Sarmai  mới  thực  hiện  cái  chương  trình  đó  Thì  cho  tới  thời  điểm,  có  nghĩa  là  chương  trình  đó  bây  giờ  là  mình  đã  tạm  ngưng  rồi  Có  nghĩa  là  các  bạn  ở  những  địa  phương  đã  có  những  cái  nơi  để  dạy  rồi  thì  mình  không  thực  hiện  nhiều  nữa  Mình  đã  thành  lập,  hỗ  trợ,  thành  lập  cho  đến  nay  tầm  khoảng  28  phòng  máy  27  phòng  máy  computer  lab
+
+552.92-553.72: Speaker SPEAKER_00
+
+
+582.47-611.65: Speaker SPEAKER_01
+ tầm  khoảng  22 -23  tỉnh  thành  trên  cả  nước  Thì  Sarmai  đào  tạo  giáo  viên  nguồn  cho  họ  Có  nghĩa  là  training  of  trainers  for  local  areas  And  send  them  back  to  their  provinces  and  conduct  the  training  there  So  we  can  spread  the  knowledge  and  skills,  computer  skills  for  more  blind  people  in  rural  areas
+
+595.75-596.44: Speaker SPEAKER_00
+ send
+
+613.22-643.80: Speaker SPEAKER_01
+ đó  là  cái  chương  trình  về  đào  tạo  Rồi  sau  này  Sarmai  mở  rộng  ra  thêm  một  hoạt  động  nữa  đó  là  liên  quan  tới  hướng  nghiệp  Ngày  xưa  đã  tập  trung  vào  hành  kinh  năng  mấy  tính  thôi  Sau  này  mở  rộng  ra  thêm  một  hoạt  động  hướng  nghiệp  Thì  lại  cũng  tập  trung  vào  công  nghệ  assistive  technology  Làm  sao  để  giúp  các  bạn  ứng  dụng  công  nghệ  để  tăng  năng  lực  trong  vấn  đề  việc  làm  Chứ  không  phải  là  power  trong  việc  làm  Thì  Sarmai  sẽ  làm  những  công  việc  như  vậy  để  hỗ  trợ  cho  các  bạn
+
+625.62-626.01: Speaker SPEAKER_00
+ nghiệp
+
+644.64-682.56: Speaker SPEAKER_01
+ tập  trung  vào  có  nghĩa  là  3  lĩnh  vực  Ví  dụ  như  2  lĩnh  vực  là  education  Làm  sao  để  giúp  các  bạn  tiếp  cận  được  với  giáo  dục  tốt  Rồi  sau  khi  các  bạn  tốt  nghiệp  đại  học  thì  làm  sao  để  kết  nối  các  bạn  được  với  các  vận  nghiệp  Để  các  bạn  khó  được  việc  làm  Nếu  như  vậy  thì  Sarmai  cũng  làm  như  vậy  Thì  những  cái  nào  ngoài  phần  biên  hoạt  động  của  Sarmai  Sarmai  sẽ  điều  phối  kết  hợp  với  những  tổ  chức  khác  Còn  Sarmai  sẽ  tập  trung  nhiều  vấn  đề  về  technology
+
+658.19-658.56: Speaker SPEAKER_00
+
+
+665.60-667.15: Speaker SPEAKER_00
+ Để  các  bạn  khó  được  việc  làm
+
+682.47-691.23: Speaker SPEAKER_00
+ Anh  Phúc  nói  rồi  là  tích  tích  vi  cho  ba  là  cái  máy  tình  cho  dù  Nhưng
+
+691.82-699.80: Speaker SPEAKER_00
+ Phúc  có  gì...  Ví  dụ...  Anh  Phúc  làm  mỗi  ngày
+
+700.73-702.10: Speaker SPEAKER_01
+ Anh
+
+702.10-706.76: Speaker SPEAKER_00
+ Phúc  có...  Còn  những  cái  quán  technology...
+
+707.38-719.60: Speaker SPEAKER_00
+ đã  nói  về  lời  nói  và  những  cái  quán  tài  liệu  Để  giúp  làm  việc  dễ  dàng  Nhưng  những  quán  tài  liệu  mà  anh  dùng  hôm  nay
+
+717.47-717.94: Speaker SPEAKER_01
+
+
+721.05-727.75: Speaker SPEAKER_01
+
+
+727.75-729.42: Speaker SPEAKER_00
+
+
+728.49-751.80: Speaker SPEAKER_01
+ Nói  chung  là  tùy  theo  công  việc  cận  Ví  dụ  như  là  một  số  tool  AI  trải  hạng  như  vậy  Để  mình  hỗ  trợ  Như  trong  cái  ví  dụ  như  là  khi  mình  write  report  Tiếng  Anh  mình  yếu  Thì  AI  nó  revise  text  của  mình  trải  hạng  như  vậy  Về  tiếng  Anh  á  Chứ  còn  tiếng  Việt  nó  biết  phụ  án
+
+732.52-733.25: Speaker SPEAKER_00
+ việc  cận
+
+751.88-756.35: Speaker SPEAKER_00
+ Siri  hay  là  Google  Google,
+
+756.30-759.34: Speaker SPEAKER_01
+ JetJPT  Phúc
+
+758.11-761.65: Speaker SPEAKER_00
+ Phúc  dùng  Siri  với  Apple
+
+761.01-813.34: Speaker SPEAKER_01
+ Về  Apple  á  Thì  nó  có  vẻ  là  nó  để  ý  đến  những  cái  thị  trường  Người  mù  ở  bên  nước  ngoài  Bên  những  nước  phát  triển  á  Mỹ,  Châu  Âu,  kiểu...  Nhật,  Hàn  Quốc  Nhưng  mà  ở  Việt  Nam,  những  cái  lượng  Nó  không  quan  tâm  nhiều  nên  nó  không  phát  triển  Text  to  speech  nó  mới  có  đây  Chắc  được  2 -3  năm  nay  Nhưng  mà  nó  lại  giọng  nó  không  hay  Thường  ngoài  là  nó  mát  Đúng  không?  Mà  hôm  nay  mấy  anh  em  mù  tắt  đèn  ở  Việt  Nam  đâu  có  tiền  mua  Thì  vẫn  có  nhưng  không  được  động  rãi  Apple  thì  nó  lại  không  được  động  rãi  trong  cái  anh  em  kiếm  thể  Ở  đây  người  ta  chủ  yếu  là  Android  Android,  máy  tính  thì  xài  Windows
+
+768.33-768.69: Speaker SPEAKER_00
+ mù  ở  bên
+
+771.81-774.83: Speaker SPEAKER_00
+ Bên  những  nước  phát  triển  á  Mỹ,  Châu  Âu,
+
+783.54-786.51: Speaker SPEAKER_00
+ mới  có  đây  Chắc  được  2 -3  năm
+
+791.81-792.46: Speaker SPEAKER_00
+ Thường
+
+794.05-796.01: Speaker SPEAKER_00
+ không?  Mà  hôm  nay  mấy
+
+812.60-820.09: Speaker SPEAKER_00
+ Tại  vì  có  em  biết  ở  Mỹ  nhiều  người  dùng  Siri,  Apple  Đúng  rồi
+
+818.87-864.52: Speaker SPEAKER_01
+ rồi  Bên  đó  thì  dùng  cũng  nhiều  Ví  dụ  như  sau  này  đang  có  một  số  ứng  dụng  app  mà  Linh  viết  Hỗ  trợ  cho  người  mù  Ví  dụ  như  Be  My  Eyes  Be  My  Eyes,  Iran,  Oko  Đó  là  một  số  cái  app  hỗ  trợ  Ví  dụ  như  người  mù  có  thể  gọi  video  call  cho  họ  Rồi  xong  bắt  đầu  có  thể  dùng  AI  Và  bắt  đầu  mô  tả  thứ  này  thứ  kia  Còn  cái  nào  khó  quá  thì  chuyển  qua  người  thật  Là  có  những  volunteer  thật  luôn  In  person,  online  thôi  Bắt  đầu  hỗ  trợ  cho  những  bạn  kiếm  thể  Các  nhạc  như  vậy  Thì  nó  cũng  đang  phát  triển  rất  nhiều  công  cụ  Mà  hiện  nay  nó  đang  rầm  rộn  rồi  cưỡng  ảnh  ứng  dụng  AI
+
+863.49-864.05: Speaker SPEAKER_00
+
+
+865.28-866.46: Speaker SPEAKER_01
+ có  nước  chưa?
+
+865.38-867.17: Speaker SPEAKER_00
+ có  nước  chưa?
+
+867.17-868.03: Speaker SPEAKER_01
+ Dạ  có
+
+868.03-869.67: Speaker SPEAKER_00
+ nước  rồi
+
+869.13-869.65: Speaker SPEAKER_01
+
+
+871.32-881.77: Speaker SPEAKER_00
+ Ok  Vì  vậy  bây  giờ  em  nói  em  đang  học  tính  học  Text  to  Speech  Và  em  muốn  biết  anh
+
+882.39-898.76: Speaker SPEAKER_00
+ gì  và  muốn  làm  gì  So  what  are  you  specifically  doing?  Ví  dụ  gọi  mẹ  hay  là  làm  viết  thời  gian
+
+899.37-901.39: Speaker SPEAKER_01
+ chưa  hiểu  câu  hỏi  của  Linh  lắm
+
+900.58-913.10: Speaker SPEAKER_00
+ Linh  lắm  So  I'm  studying  the  Text  to  Speech  and  the  Computer  Science  So  I  specifically  want  to  know  how  I  can
+
+908.29-908.80: Speaker SPEAKER_01
+ So
+
+913.88-927.57: Speaker SPEAKER_00
+ these  technologies  to  help  people  So  what  are  the  very  specific  tasks  that  you  do  with  the  technologies?  Do  you  use  it  to  call  people,  use  it  to  email?
+
+917.15-917.56: Speaker SPEAKER_01
+ what
+
+928.48-930.38: Speaker SPEAKER_00
+ What  things  should  we  focus  on?
+
+928.53-928.97: Speaker SPEAKER_01
+ What  things
+
+930.38-936.37: Speaker SPEAKER_01
+ Thật  ra  Text  to  Speech  thì  tiếng  Việt  á
+
+933.84-934.86: Speaker SPEAKER_00
+ Việt  á
+
+937.37-1033.86: Speaker SPEAKER_01
+ nay  cũng  đang  có  một  số  cái  bộ  đọc  tiếng  Việt  sẵn  rồi  Thì  thường  là  trong  công  việc  hàng  ngày  thì  ví  dụ  như  là  các  bạn  dùng  để  đọc  sách  lại  kia  Đọc  chuyện,  đọc  báo,  xài  máy  tính  để  làm  việc  Công  việc  đối  chung  là  như  mọi  người  thôi  Rồi  email,  chat,  v .v.  Ví  dụ  như  Linh  học  Text  to  Speech  thì  hiện  nay  thì  ở  tiếng  Việt  Nếu  mà  chú  trọng  vô  được  để  phát  triển  một  số  giọng  để  hỗ  trợ  Đúng  như  để  đọc  sách,  có  ngửi  cảnh,  ngửi  điệu  Cho  nó  tốt,  rõ  ràng  để  các  bạn  nghe  được  Hiểu  được,  ví  dụ  như  đọc  sách,  sách  nói  đó  Ví  dụ  như  Digital  Talking  Book,  các  hàng  như  vậy  Ví  dụ  như  đó  thì  các  bạn,  đó  là  những  cái  ứng  dụng  thì  cũng  rất  là  cần  Ví  dụ  như  là  để  tạo  ra  những  cái  giọng  nói  của  vùng  miền  Ví  dụ  như  là  giọng  miền  Nam,  miền  Bắc,  Huế,  Nẵng  hay  gì  đó  Để  cho  các  bạn  nghe  dễ  hơn,  thì  nó  có  nhiều  cái  giềng  Thì  ở  Việt  Nam  như  vậy,  còn  hiện  nay,  nhưng  mà  làm  sao  để  nó  dùng  được  với  trình  đọc  bằng  hình  Screen  reading  software  Screen  reading  software,  like  JAWS,  NVDA  on  Windows  Talk  back  on  Android,  or  voice  over  on  iOS  Thì  nó  đọc  được  Các  bạn  sẽ  đọc  được  sử  dụng  trên  mấy  tính  Thì  những  cái  giọng  nếu  mà  nói  về  Text  to  Speech  là  như  vậy  Còn  thật  ra  Text  to  Speech  là  chỉ  phát  âm  đọc  lại  cho  các  bạn  thôi  Thì  hiện  nay  thì  anh  cũng  sử  dụng  Text  to  Speech  để  làm  những  công  việc  thôi
+
+952.98-953.47: Speaker SPEAKER_00
+ người  thôi
+
+982.61-983.39: Speaker SPEAKER_00
+ hàng  như  vậy  Ví
+
+994.64-1000.23: Speaker SPEAKER_00
+ Huế,  Nẵng  hay  gì  đó  Để  cho  các  bạn  nghe  dễ  hơn,  thì  nó  có  nhiều  cái  giềng  Thì  ở
+
+1005.95-1007.32: Speaker SPEAKER_00
+
+
+1021.04-1022.82: Speaker SPEAKER_00
+ tính  Thì  những  cái  giọng  nếu  mà  nói  về
+
+1033.86-1037.86: Speaker SPEAKER_00
+
+
+1038.65-1040.98: Speaker SPEAKER_00
+
+
