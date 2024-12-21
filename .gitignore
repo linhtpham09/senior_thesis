@@ -1,11 +1,2 @@
 *.sh
 *.pyc
-*.ipynb
-*.pkl 
-*.ckpt
-*.yaml
-*.m4a 
-*.wav
-*.pt
-*.bin
-*.log
